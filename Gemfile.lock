@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/gsamokovarov/web-console.git
-  revision: a6f8a9a7d1f07b3fe19c41996871f405d478ec2c
+  revision: d6c57bda0e7c0fd2d548a2dbb4ec371c60f99ba5
   branch: introduce-middleware
   specs:
     web-console (2.0.0.beta4)
